@@ -5,7 +5,7 @@ ruby '2.6.5'
 
 gem 'rails', '~> 5.2.2'
 gem 'mysql2', '>= 0.4.4', '< 0.6.0'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'devise', '~> 4.7.1'
 gem 'graphql', '~> 1.9.2'
 gem 'rack-cors'           # CORS設定
